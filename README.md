@@ -9,6 +9,6 @@
 * `read_sql()` and `sqlalchemy`
 * SQL `SELECT`, `WHERE`, aggregate functions and joins
 ### Chapter 4
-* 'read_json()`, 'json_normaliz()`, and `requests`
+* `read_json()`, 'json_normaliz()`, and `requests`
 * Working with APIs and nested JSONs
 * Appending and merging datasets
