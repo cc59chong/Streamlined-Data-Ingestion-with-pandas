@@ -10,6 +10,6 @@ This course teaches you how to build pipelines to import data kept in common sto
 * `read_sql()` and `sqlalchemy`
 * SQL `SELECT`, `WHERE`, aggregate functions and joins
 ### Chapter 4
-* `read_json()`, `json_normaliz()`, and `requests`
+* `read_json()`, `json_normalize()`, and `requests`
 * Working with APIs and nested JSONs
 * Appending and merging datasets
