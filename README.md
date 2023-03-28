@@ -5,7 +5,9 @@ This course teaches you how to build pipelines to import data kept in common sto
 ### Chapters 1 and 2
 * `read_csv()` and `read_excel`
 * Setting data types, choosing data to load, handling missing data and errors
-* **`usecols`**, **`nrows`**, **`skiprows`**, **`names`**, **`dtype`**, **`na_values`**, **`.isna()`**
+* **`usecols`**, **`nrows`**, **`skiprows`**, **`names`**, **`dtype`**, **`na_values`**, **`.isna()`**, **`sheet_name`**, **`parse_dates`**(for standard datetime), **`pd.to_datetime()`**(Parse non-standard date formats)
+* Putting multiple spreadsheets together (Using iterate through dataframe in dictionary)
+* Setting custom true/false values
 ### Chapter 3
 * `read_sql()` and `sqlalchemy`
 * SQL `SELECT`, `WHERE`, aggregate functions and joins
